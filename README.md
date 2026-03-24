@@ -1,4 +1,4 @@
-# Aphryne-prototype
+# Aphryne Prototype
 Portfolio project showcasing a luxury e-commerce website UI. Designed and developed using HTML, CSS, and Bootstrap with emphasis on responsive design, branding, and user experience.
 
 ## Overview
@@ -60,7 +60,3 @@ Built with a mobile-first approach using Bootstrap grid and utilities. The layou
 
 ## Live Demo
 [Add your GitHub Pages link here]
-
-## Author
-Lee Leshilo  
-Front-End Developer | UI/UX Enthusiast
